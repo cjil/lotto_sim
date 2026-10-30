@@ -1,5 +1,5 @@
 [general]
-starting_balance = 2_500_000.0
+starting_balance = 78_000.0
 
 [Powerball]
 pool_max = 35
@@ -16,7 +16,7 @@ prizes = [
     { matches = 4, pb = true,  amount = 90.0 },
     { matches = 5, pb = false, amount = 55.0 },
     { matches = 3, pb = true,  amount = 25.0 },
-    { matches = 2, pb = true,  amount = 12.50 },
+    { matches = 2, pb = true,  amount = 14.50 },
 ]
 
 [Saturday]
